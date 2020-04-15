@@ -1,2 +1,4 @@
-# tomato-leetcode
-leetcode练习
+# 算法小白进阶之路
+不积跬步无以至千里，不积细流无以成江海。
+
+先从LeetCode刷题做起吧，希望可以多坚持坚持
